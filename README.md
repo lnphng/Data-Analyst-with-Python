@@ -1,12 +1,10 @@
 ## Datacamp Projects
 
-This folder includes projects on [Datacampsite](https://www.datacamp.com/projects/), on which I try myself to do projects in oder to review, update my knowledge and get experience in this field. 
-
+This folder includes projects on [Datacampsite](https://www.datacamp.com/projects/), on which I try myself each day to do a small project in oder to review, update my knowledge and get experience in this field. 
 
 <p style='text-align: center;'> <b><i> *********************** Übung macht den Meister *********************** </i> </b>
 
 </p>
-
 
 ### 01. Exploring the Evolution of Linux
 <p><a href="https://commons.wikimedia.org/wiki/File:Tux.svg">
@@ -15,7 +13,6 @@ This folder includes projects on [Datacampsite](https://www.datacamp.com/project
 
 <p>
 - Version control repositories like CVS, Subversion or Git store rich evolution information about a software project. In this project, I excercise:
-    
    - how to read `gz` file, 
    - clean up data with problems involving `timestamp` and 
    - visualize a real world Git repository dataset of the Linux kernel. 
@@ -23,7 +20,7 @@ This folder includes projects on [Datacampsite](https://www.datacamp.com/project
 - After that I gained insights about the development activities over the last 13 years and visualized it.
 
 #### For this Project, I reviewed knowledge of: 
-- Import data with pandas
+- Importing data with pandas
 - Data Manipulation with pandas
 - Manipulating Time Series Data in Python
 
