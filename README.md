@@ -1,8 +1,8 @@
 ## Datacamp Projects
 
-This folder includes projects on [Datacampsite](https://www.datacamp.com/projects/), on which I try myself each day to do a small project in oder to review, update my knowledge and get experience in this field. 
+This folder includes projects on [Datacampsite](https://www.datacamp.com/projects/). The projects are all small projects, but very usefull to review, update knowledge and get some practical experience in this field.
 
-<p style='text-align: center;'> <b><i> *********************** Übung macht den Meister *********************** </i> </b>
+<p align= 'center'> <b><i> *********************** Übung macht den Meister *********************** </i> </b>
 
 </p>
 
