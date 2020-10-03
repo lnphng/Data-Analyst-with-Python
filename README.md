@@ -9,6 +9,7 @@ This folder includes projects on [Datacampsite](https://www.datacamp.com/project
 ### 01. Exploring the Evolution of Linux
 <p><a href="https://commons.wikimedia.org/wiki/File:Tux.svg">
 <img align="right" style="float: right;margin:5px 20px 5px 1px" width="150px" src="./img/tux.png" alt="Tux - the Linux mascot"/>
+
 </a></p>
 
 <p>
